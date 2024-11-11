@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 #include <string>
-#include <climits> // Incluir la biblioteca para INT_MAX
+#include <climits> 
 
 using namespace std;
 
